@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-06T09:42:35.532Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="G4UIkFtlepyC53aZN6pp" version="12.2.0" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2019-11-06T11:34:41.409Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="L9njEkrcrbbrsatQhEQm" version="12.2.0" type="github" pages="5">
   <diagram id="Ccgbg-lzcWB6y4U78KbH" name="第 1 页">
     <mxGraphModel dx="1666" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -472,7 +472,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xrWtVzAp8hQjXyvI-JKa" name="第 5 页">
-    <mxGraphModel dx="1666" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WYXeFGzN17JQ91gy4SGi-0"/>
         <mxCell id="WYXeFGzN17JQ91gy4SGi-1" parent="WYXeFGzN17JQ91gy4SGi-0"/>
@@ -523,6 +523,12 @@
             <mxPoint x="480" y="420" as="sourcePoint"/>
             <mxPoint x="320" y="420" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WYXeFGzN17JQ91gy4SGi-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WYXeFGzN17JQ91gy4SGi-1" source="WYXeFGzN17JQ91gy4SGi-14" target="WYXeFGzN17JQ91gy4SGi-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="WYXeFGzN17JQ91gy4SGi-14" value="联合建模&lt;br&gt;管理员" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WYXeFGzN17JQ91gy4SGi-1">
+          <mxGeometry x="600" y="140" width="30" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
