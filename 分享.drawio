@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-07T12:20:25.579Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="la40l1d0wqPiPn0rn6It" version="12.2.2" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2019-11-07T12:23:23.212Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="1D2YRH1HQQiFO8Bl-4YP" version="12.2.2" type="github" pages="7">
   <diagram id="Ccgbg-lzcWB6y4U78KbH" name="第 1 页">
     <mxGraphModel dx="1426" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -637,8 +637,8 @@
         <mxCell id="sVwW08Bvy0JEtSdH2Ur9-25" value="&lt;h1&gt;版本信息&lt;/h1&gt;&lt;div&gt;LR : [v1]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;GBDT : [v1]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="JOBWoraC5EdKVGslJZkQ-1" vertex="1">
           <mxGeometry x="296" y="140" width="120" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="om2KkhlVORua5i0sxhcA-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;注册表&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;机构名=机构1，模型版本=v1，LR=[v1]，GBDT=[v1]&amp;nbsp;&lt;br&gt;&lt;br&gt;机构名=机构2，模型版本=v2，LR=[v2, v1]，GBDT=[v2, v1]，DNN=[v1]&amp;nbsp;&lt;br&gt;&lt;br&gt;机构名=机构2，模型版本=v2，LR=[v3, v2, v1]，GBDT=[v2, v1]，DNN=[v2, v1]&amp;nbsp;&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="JOBWoraC5EdKVGslJZkQ-1" vertex="1">
-          <mxGeometry x="650" y="127.5" width="240" height="155" as="geometry"/>
+        <mxCell id="om2KkhlVORua5i0sxhcA-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;注册表&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;机构名=机构1，模块版本=v1，LR=[v1]，GBDT=[v1]&amp;nbsp;&lt;br&gt;&lt;br&gt;机构名=机构2，模块版本=v2，LR=[v2, v1]，GBDT=[v2, v1]，DNN=[v1]&amp;nbsp;&lt;br&gt;&lt;br&gt;机构名=机构2，模块版本=v2，LR=[v3, v2, v1]，GBDT=[v2, v1]，DNN=[v2, v1]&amp;nbsp;&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="JOBWoraC5EdKVGslJZkQ-1" vertex="1">
+          <mxGeometry x="650" y="128" width="230" height="155" as="geometry"/>
         </mxCell>
         <mxCell id="32rzkOdtiBOU4tuAK6Fn-0" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="JOBWoraC5EdKVGslJZkQ-1" source="sVwW08Bvy0JEtSdH2Ur9-7" target="om2KkhlVORua5i0sxhcA-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
