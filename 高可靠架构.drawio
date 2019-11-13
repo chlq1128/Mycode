@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-13T06:04:20.538Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="zwXO9_aAMxYwgN7cOcJS" version="12.2.4" type="github" pages="1">
+<mxfile modified="2019-11-13T06:05:26.317Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="q8RLzFehPSBF7HNDVqpD" version="12.2.4" type="github" pages="1">
   <diagram id="AvIxJLDpv7vQeuunHaZT" name="第 1 页">
     <mxGraphModel dx="1426" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="tU0FHJasCiWXNEm8c2Oq-4" value="Task Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="293" y="490" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="tU0FHJasCiWXNEm8c2Oq-5" value="Worker Meta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tU0FHJasCiWXNEm8c2Oq-5" value="Worker Meta/Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="184" y="616" width="166" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="tU0FHJasCiWXNEm8c2Oq-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
