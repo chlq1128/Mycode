@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-13T06:10:25.685Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="v3HA5Kvk8IFOCOsujNRf" version="12.2.4" type="github" pages="1">
+<mxfile modified="2019-11-13T06:11:51.741Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="T06VrPEiH1k3j1vQ_BW1" version="12.2.4" type="github" pages="1">
   <diagram id="AvIxJLDpv7vQeuunHaZT" name="第 1 页">
     <mxGraphModel dx="1426" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,6 +144,12 @@
             <mxPoint x="13.333333333333332" y="23.47826086956522" as="sourcePoint"/>
             <mxPoint x="26.666666666666664" y="19.565217391304348" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tU0FHJasCiWXNEm8c2Oq-46" value="接收、解析、&lt;br&gt;路由请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="405" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="tU0FHJasCiWXNEm8c2Oq-47" value="任务调度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="505" width="80" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
