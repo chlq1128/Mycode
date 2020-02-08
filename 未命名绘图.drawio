@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-08T10:14:34.835Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="vy4AxkfqVG4pubgePYKs" version="12.6.5" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-02-08T10:24:10.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="jsWGJeNvAGzA6vY8cToR" version="12.6.5" type="github" pages="6">
   <diagram id="j9vJGMcmzGPHkwokhbha" name="第 1 页">
     <mxGraphModel dx="1694" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UPJOPiU2IkBFESNoCm28" name="第 2 页">
-    <mxGraphModel dx="1113" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HrCekkVRfHCn1H9H5KcD-0"/>
         <mxCell id="HrCekkVRfHCn1H9H5KcD-1" parent="HrCekkVRfHCn1H9H5KcD-0"/>
@@ -360,6 +360,21 @@
         </mxCell>
         <mxCell id="jEhEnID663JKWE7_vMrB-28" value="&lt;span style=&quot;white-space: normal&quot;&gt;Alice&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;Spawner 3&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
           <mxGeometry x="330" y="1570" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="jEhEnID663JKWE7_vMrB-38" value="ModelA&lt;br&gt;Alice&lt;br&gt;Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
+          <mxGeometry x="110" y="1860" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="jEhEnID663JKWE7_vMrB-39" value="ModelA&lt;br&gt;Alice&lt;br&gt;Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
+          <mxGeometry x="220" y="1860" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="jEhEnID663JKWE7_vMrB-40" value="ModelA&lt;br&gt;Alice&lt;br&gt;Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
+          <mxGeometry x="325" y="1860" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="jEhEnID663JKWE7_vMrB-41" value="ModelA&lt;br&gt;Bob&lt;br&gt;Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
+          <mxGeometry x="465" y="1860" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="jEhEnID663JKWE7_vMrB-42" value="ModelA&lt;br&gt;Bob&lt;br&gt;Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
+          <mxGeometry x="575" y="1860" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
