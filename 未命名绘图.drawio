@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-10T03:44:53.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="rhhrOV1w8S5pr6IIEIK8" version="12.6.5" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-02-10T03:46:36.376Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="BCYtH_s4tiVMKojE5ygA" version="12.6.5" type="github" pages="6">
   <diagram id="j9vJGMcmzGPHkwokhbha" name="第 1 页">
     <mxGraphModel dx="1351" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UPJOPiU2IkBFESNoCm28" name="第 2 页">
-    <mxGraphModel dx="946" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HrCekkVRfHCn1H9H5KcD-0"/>
         <mxCell id="HrCekkVRfHCn1H9H5KcD-1" parent="HrCekkVRfHCn1H9H5KcD-0"/>
@@ -1086,7 +1086,7 @@
         <mxCell id="oH9Ixkv1HB_jIlqgLfqp-126" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
           <mxGeometry x="2955" y="3993" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="oH9Ixkv1HB_jIlqgLfqp-127" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Source=Alice Node1 Gateway&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;&amp;nbsp; -&amp;gt;&amp;nbsp; ModelA Service : localhost&lt;/div&gt;&lt;div&gt;&amp;nbsp; -&amp;gt;&amp;nbsp; ModelB Service:&amp;nbsp;&lt;span&gt;192.168.2.1 (GW)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
+        <mxCell id="oH9Ixkv1HB_jIlqgLfqp-127" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Source=Alice Node1 Gateway&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;&amp;nbsp; -&amp;gt;&amp;nbsp; ModelA Service : localhost&lt;/div&gt;&lt;div&gt;&amp;nbsp; -&amp;gt;&amp;nbsp; ModelB Service: GW2&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; -&amp;gt; Bob : SLB&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
           <mxGeometry x="2625.76" y="3540" width="252.21" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="oH9Ixkv1HB_jIlqgLfqp-128" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;Source=Bob Node1 Gateway&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; -&amp;gt;&amp;nbsp; Bob Bench : 127.0.0.1 (GW)&lt;/div&gt;&lt;div&gt;&amp;nbsp; -&amp;gt;&amp;nbsp; Bob Spawner 2 :&amp;nbsp;&lt;span&gt;127.0.0.1 (GW)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; -&amp;gt;&amp;nbsp; Bob Spawner 3 :&amp;nbsp;&lt;span&gt;127.0.0.1 (GW)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; -&amp;gt;&amp;nbsp; Alice :&amp;nbsp; 202.101.100.1 (SLB)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
