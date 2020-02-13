@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T06:41:54.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Wp6zXpq4WbR5eCoU2VXz" version="12.6.8" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-02-13T06:42:35.813Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="d0q982kWDu7kggoUm_oD" version="12.6.8" type="github" pages="6">
   <diagram id="j9vJGMcmzGPHkwokhbha" name="第 1 页">
     <mxGraphModel dx="3953" dy="1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3176,7 +3176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rswGlwl6LDy98wqmJtez" name="第 5 页">
-    <mxGraphModel dx="1694" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yiD8VPfUtXuw91x7eM3k-0"/>
         <mxCell id="yiD8VPfUtXuw91x7eM3k-1" parent="yiD8VPfUtXuw91x7eM3k-0"/>
@@ -3679,16 +3679,16 @@
         <mxCell id="79oha7Lo98qBZpYjlzR1-0" value="Non K8S Scheduler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
           <mxGeometry x="600" y="1380" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="79oha7Lo98qBZpYjlzR1-2" value="Mpc Job Party&amp;nbsp;&lt;br&gt;Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
+        <mxCell id="79oha7Lo98qBZpYjlzR1-2" value="Non K8S&lt;br&gt;Mpc Job Party&amp;nbsp;&lt;br&gt;Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
           <mxGeometry x="1195.5" y="1343" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="79oha7Lo98qBZpYjlzR1-3" value="Mpc Model Party&amp;nbsp;&lt;br&gt;Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
+        <mxCell id="79oha7Lo98qBZpYjlzR1-3" value="Non K8S&lt;br&gt;Mpc Model Party&amp;nbsp;&lt;br&gt;Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
           <mxGeometry x="1328.5" y="1343" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="79oha7Lo98qBZpYjlzR1-4" value="Gateway Party Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
+        <mxCell id="79oha7Lo98qBZpYjlzR1-4" value="Non K8S&lt;br&gt;Gateway Party Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
           <mxGeometry x="1195.5" y="1417" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="79oha7Lo98qBZpYjlzR1-5" value="Mpc XXX Party&lt;br&gt;Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
+        <mxCell id="79oha7Lo98qBZpYjlzR1-5" value="Non K8S&lt;br&gt;Mpc XXX Party&lt;br&gt;Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
           <mxGeometry x="1328.5" y="1417" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
