@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T02:53:12.605Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="30b0eXrMGAfWs_BW8a1e" version="12.6.5" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-02-13T02:56:24.477Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="-hyKfu_UjvSV-2GHJ7Pq" version="12.6.5" type="github" pages="6">
   <diagram id="j9vJGMcmzGPHkwokhbha" name="第 1 页">
     <mxGraphModel dx="1351" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UPJOPiU2IkBFESNoCm28" name="第 2 页">
-    <mxGraphModel dx="1113" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HrCekkVRfHCn1H9H5KcD-0"/>
         <mxCell id="HrCekkVRfHCn1H9H5KcD-1" parent="HrCekkVRfHCn1H9H5KcD-0"/>
@@ -1784,13 +1784,13 @@
         <mxCell id="xOr4cVx1m_YIhVhy38LS-376" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;" edge="1" parent="HrCekkVRfHCn1H9H5KcD-1" source="xOr4cVx1m_YIhVhy38LS-374" target="xOr4cVx1m_YIhVhy38LS-362">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xOr4cVx1m_YIhVhy38LS-374" value="4C8G&lt;br&gt;GPU&lt;br&gt;SSD" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
+        <mxCell id="xOr4cVx1m_YIhVhy38LS-374" value="4C8G &lt;u&gt;1C2G&lt;/u&gt;&lt;br&gt;GPU&lt;br&gt;SSD" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
           <mxGeometry x="2889.25" y="960.12" width="101.5" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="xOr4cVx1m_YIhVhy38LS-377" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;" edge="1" parent="HrCekkVRfHCn1H9H5KcD-1" source="xOr4cVx1m_YIhVhy38LS-375" target="xOr4cVx1m_YIhVhy38LS-364">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xOr4cVx1m_YIhVhy38LS-375" value="8C16G&lt;br&gt;SGX&lt;br&gt;HDD" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
+        <mxCell id="xOr4cVx1m_YIhVhy38LS-375" value="8C16G &lt;u&gt;1C2G&lt;/u&gt;&lt;br&gt;SGX&lt;br&gt;HDD" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=none;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
           <mxGeometry x="3059.25" y="960.12" width="101.5" height="80" as="geometry"/>
         </mxCell>
       </root>
