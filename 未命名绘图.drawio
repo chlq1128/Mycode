@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T02:25:35.023Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="u-JzdpEnGWmRYA-0d3YM" version="12.6.5" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-02-13T02:41:03.553Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="f5OEmsenYfdxM0_FKjyE" version="12.6.5" type="github" pages="6">
   <diagram id="j9vJGMcmzGPHkwokhbha" name="第 1 页">
     <mxGraphModel dx="1351" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1645,10 +1645,10 @@
           <mxGeometry x="2287.2299999999996" y="1784.19" width="60" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="xOr4cVx1m_YIhVhy38LS-311" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
-          <mxGeometry x="2665.1" y="22" width="524.9" height="240" as="geometry"/>
+          <mxGeometry x="2665.1" y="22" width="644.9" height="240" as="geometry"/>
         </mxCell>
         <mxCell id="xOr4cVx1m_YIhVhy38LS-312" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
-          <mxGeometry x="3015.2999999999997" y="82" width="159.8" height="170" as="geometry"/>
+          <mxGeometry x="3015.3" y="82" width="284.7" height="170" as="geometry"/>
         </mxCell>
         <mxCell id="xOr4cVx1m_YIhVhy38LS-313" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="xOr4cVx1m_YIhVhy38LS-314" target="xOr4cVx1m_YIhVhy38LS-315" parent="HrCekkVRfHCn1H9H5KcD-1">
           <mxGeometry relative="1" as="geometry"/>
@@ -1750,6 +1750,9 @@
         </mxCell>
         <mxCell id="xOr4cVx1m_YIhVhy38LS-357" value="Mpc Pod" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
           <mxGeometry x="3055.1" y="466.12" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="xOr4cVx1m_YIhVhy38LS-361" value="Job Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HrCekkVRfHCn1H9H5KcD-1">
+          <mxGeometry x="3165" y="139.99999999999994" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
