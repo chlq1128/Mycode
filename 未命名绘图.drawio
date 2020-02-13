@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T06:38:37.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="0JkCSpPdZ6rAQHJxi-BY" version="12.6.8" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-02-13T06:41:54.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Wp6zXpq4WbR5eCoU2VXz" version="12.6.8" type="github" pages="6">
   <diagram id="j9vJGMcmzGPHkwokhbha" name="第 1 页">
     <mxGraphModel dx="3953" dy="1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3176,7 +3176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rswGlwl6LDy98wqmJtez" name="第 5 页">
-    <mxGraphModel dx="2372" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yiD8VPfUtXuw91x7eM3k-0"/>
         <mxCell id="yiD8VPfUtXuw91x7eM3k-1" parent="yiD8VPfUtXuw91x7eM3k-0"/>
@@ -3461,10 +3461,10 @@
           <mxGeometry x="60" y="1550" width="700" height="480" as="geometry"/>
         </mxCell>
         <mxCell id="zg-7xaB73DiX6BvKftJV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
-          <mxGeometry x="580" y="1260" width="620" height="240" as="geometry"/>
+          <mxGeometry x="580" y="1260" width="900" height="240" as="geometry"/>
         </mxCell>
         <mxCell id="zg-7xaB73DiX6BvKftJV-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
-          <mxGeometry x="920" y="1320" width="270" height="170" as="geometry"/>
+          <mxGeometry x="920" y="1320" width="540" height="170" as="geometry"/>
         </mxCell>
         <mxCell id="zg-7xaB73DiX6BvKftJV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="zg-7xaB73DiX6BvKftJV-5" target="zg-7xaB73DiX6BvKftJV-6" parent="yiD8VPfUtXuw91x7eM3k-1">
           <mxGeometry relative="1" as="geometry"/>
@@ -3596,7 +3596,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5VDP_nGx1RKWp70GiQ-D-13" value="Coord Kubelet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
+        <mxCell id="5VDP_nGx1RKWp70GiQ-D-13" value="Coord Non K8S Kubelet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
           <mxGeometry x="885.06" y="1704.29" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="5VDP_nGx1RKWp70GiQ-D-14" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
@@ -3626,9 +3626,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5VDP_nGx1RKWp70GiQ-D-21" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
-          <mxGeometry x="865.06" y="1784.12" width="30" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="5VDP_nGx1RKWp70GiQ-D-23" value="Institution Node/Worker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
           <mxGeometry x="945.06" y="1887" width="120" height="20" as="geometry"/>
         </mxCell>
@@ -3643,7 +3640,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5VDP_nGx1RKWp70GiQ-D-27" value="Coord Kubelet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
+        <mxCell id="5VDP_nGx1RKWp70GiQ-D-27" value="Coord Non K8S Kubelet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
           <mxGeometry x="1262" y="1704.29" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="5VDP_nGx1RKWp70GiQ-D-28" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
@@ -3673,17 +3670,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5VDP_nGx1RKWp70GiQ-D-35" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
-          <mxGeometry x="1242" y="1784.12" width="30" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="5VDP_nGx1RKWp70GiQ-D-36" value="Institution Node/Worker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
           <mxGeometry x="1322" y="1887" width="120" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="79oha7Lo98qBZpYjlzR1-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="yiD8VPfUtXuw91x7eM3k-1" source="79oha7Lo98qBZpYjlzR1-0" target="zg-7xaB73DiX6BvKftJV-5">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="79oha7Lo98qBZpYjlzR1-0" value="Coord Scheduler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
+        <mxCell id="79oha7Lo98qBZpYjlzR1-0" value="Non K8S Scheduler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
           <mxGeometry x="600" y="1380" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="79oha7Lo98qBZpYjlzR1-2" value="Mpc Job Party&amp;nbsp;&lt;br&gt;Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
+          <mxGeometry x="1195.5" y="1343" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="79oha7Lo98qBZpYjlzR1-3" value="Mpc Model Party&amp;nbsp;&lt;br&gt;Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
+          <mxGeometry x="1328.5" y="1343" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="79oha7Lo98qBZpYjlzR1-4" value="Gateway Party Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
+          <mxGeometry x="1195.5" y="1417" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="79oha7Lo98qBZpYjlzR1-5" value="Mpc XXX Party&lt;br&gt;Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yiD8VPfUtXuw91x7eM3k-1">
+          <mxGeometry x="1328.5" y="1417" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
