@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-20T13:48:29.094Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="N2Dz1Arh1t1Yl_761Fyz" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-21T07:16:53.710Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="1HkxmcDBrZWF0kmwPKgN" version="12.8.8" type="github">
   <diagram id="9vjQtzVJ7qbeVhoStUTl" name="第 1 页">
-    <mxGraphModel dx="1186" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="R647riTE8hrRx7rFXN2j-2" value="ApiServer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R647riTE8hrRx7rFXN2j-4" value="&lt;h1&gt;Resource&lt;/h1&gt;&lt;p&gt;apiversion: v1&lt;/p&gt;&lt;p&gt;kind: Instance&lt;/p&gt;&lt;p&gt;metadata: datalab&lt;/p&gt;&lt;p&gt;spec: {...}&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="R647riTE8hrRx7rFXN2j-4" value="&lt;h1&gt;Resource&lt;/h1&gt;&lt;p&gt;apiversion: v1&lt;/p&gt;&lt;p&gt;kind: Instance&lt;/p&gt;&lt;p&gt;metadata: datalab&lt;/p&gt;&lt;p&gt;spec: {...}&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="120" y="30" width="130" height="150" as="geometry" />
         </mxCell>
         <mxCell id="R647riTE8hrRx7rFXN2j-5" value="1. post /api/v1/instances" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
