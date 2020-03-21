@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T14:45:55.278Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="Dp4NxgZOYX1Rb6uvWxGf" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-21T14:47:57.044Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="WVxUUpROYX1ROIPTfwY2" version="12.8.8" type="github">
   <diagram id="9vjQtzVJ7qbeVhoStUTl" name="第 1 页">
     <mxGraphModel dx="788" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -413,6 +413,12 @@
         </mxCell>
         <mxCell id="tA1kky_qQhR9MNmGrfL9-204" value="3. WatchEvent&lt;br&gt;Type: Add&lt;br&gt;Object: Instance&lt;br&gt;ResourceVersion: 100" style="text;html=1;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="170" y="1670" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tA1kky_qQhR9MNmGrfL9-208" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="tA1kky_qQhR9MNmGrfL9-200" target="tA1kky_qQhR9MNmGrfL9-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tA1kky_qQhR9MNmGrfL9-209" value="4. Update Cache&lt;br&gt;Reconsile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1724" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
