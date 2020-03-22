@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T10:55:35.450Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="NsRygAMjL_p7ivhR_q8x" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-22T10:59:23.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="TXcr8s__wUP1H_9kv4yX" version="12.8.8" type="github">
   <diagram id="9vjQtzVJ7qbeVhoStUTl" name="第 1 页">
     <mxGraphModel dx="946" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -645,21 +645,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tA1kky_qQhR9MNmGrfL9-325" value="Node&lt;br&gt;Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="1990" width="120" height="60" as="geometry" />
+          <mxGeometry x="1590" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tA1kky_qQhR9MNmGrfL9-329" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="tA1kky_qQhR9MNmGrfL9-325" target="tA1kky_qQhR9MNmGrfL9-325">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tA1kky_qQhR9MNmGrfL9-330" value="1. Reconcile" style="text;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="2070" width="90" height="30" as="geometry" />
+          <mxGeometry x="1610" y="2070" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tA1kky_qQhR9MNmGrfL9-331" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="tA1kky_qQhR9MNmGrfL9-325" target="tA1kky_qQhR9MNmGrfL9-325">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1690" y="2035" />
-              <mxPoint x="1690" y="2005" />
+              <mxPoint x="1730" y="2035" />
+              <mxPoint x="1730" y="2005" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tA1kky_qQhR9MNmGrfL9-332" value="2. Evicting all the pods&lt;br&gt;from the node" style="text;html=1;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="2005" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tA1kky_qQhR9MNmGrfL9-333" value="3. Update Pod &lt;br&gt;Spec &amp;amp; Status" style="text;html=1;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1980" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
