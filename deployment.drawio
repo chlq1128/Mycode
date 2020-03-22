@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T10:27:14.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="IAKDynMfofFa-ZP5ezQX" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-22T10:36:47.353Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="q8SKPENqbSIPWvSO6mOl" version="12.8.8" type="github">
   <diagram id="9vjQtzVJ7qbeVhoStUTl" name="第 1 页">
     <mxGraphModel dx="1577" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -515,7 +515,7 @@
         <mxCell id="tA1kky_qQhR9MNmGrfL9-264" value="1. MergeChanges(EventAdapter)&lt;br&gt;Kubelet SyncLoop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="271" y="1980" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tA1kky_qQhR9MNmGrfL9-265" value="Docker Runtime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tA1kky_qQhR9MNmGrfL9-265" value="Worker Runtime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="306" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tA1kky_qQhR9MNmGrfL9-267" value="2. Instance CUD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -565,7 +565,7 @@
         <mxCell id="tA1kky_qQhR9MNmGrfL9-289" value="1. Check Instance Spec&lt;br&gt;RestartPolicy: Always/Never" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="483" y="1975" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tA1kky_qQhR9MNmGrfL9-290" value="Docker Runtime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tA1kky_qQhR9MNmGrfL9-290" value="Worker Runtime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="508" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tA1kky_qQhR9MNmGrfL9-291" value="2. Restart or DoNothing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
