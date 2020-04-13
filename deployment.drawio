@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-13T07:04:43.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="6dBA3IY1eRexVGqJ7Egs" version="12.9.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-04-13T07:04:57.687Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="yyX3otqVl-G3Mr69eVfe" version="12.9.10" type="github" pages="3">
   <diagram id="OI-5bs27IT3hh9-s2tVo" name="第 2 页">
     <mxGraphModel dx="1188" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3060,7 +3060,7 @@
           <mxGeometry x="345.5" y="1970" width="98" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cJH-0O6cbYzvXnR54wyN-67" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="n-lhFYgHjm54SRcJaEUp-1">
-          <mxGeometry x="20" y="1750" width="120" height="110" as="geometry" />
+          <mxGeometry x="30" y="1750" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cJH-0O6cbYzvXnR54wyN-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" source="cJH-0O6cbYzvXnR54wyN-69" target="cJH-0O6cbYzvXnR54wyN-71" parent="n-lhFYgHjm54SRcJaEUp-1">
           <mxGeometry relative="1" as="geometry" />
@@ -3069,10 +3069,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cJH-0O6cbYzvXnR54wyN-69" value="Kubelet" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="n-lhFYgHjm54SRcJaEUp-1">
-          <mxGeometry x="25" y="1756" width="110" height="40" as="geometry" />
+          <mxGeometry x="35" y="1756" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cJH-0O6cbYzvXnR54wyN-71" value="MPC SVC&lt;br&gt;Controller&lt;br&gt;Pod" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="n-lhFYgHjm54SRcJaEUp-1">
-          <mxGeometry x="45.5" y="1810" width="69" height="40" as="geometry" />
+        <mxCell id="cJH-0O6cbYzvXnR54wyN-71" value="MPC Job&lt;br&gt;Controller&lt;br&gt;Pod" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="n-lhFYgHjm54SRcJaEUp-1">
+          <mxGeometry x="55.5" y="1810" width="69" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
