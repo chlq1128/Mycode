@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-28T02:55:32.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="vZ5g6XomnJ-nxIVQYFVc" version="13.1.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-05-28T08:37:07.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="fVZfJsRm2-0_AFq_MI-2" version="13.1.3" type="github" pages="3">
   <diagram id="OI-5bs27IT3hh9-s2tVo" name="第 2 页">
     <mxGraphModel dx="946" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6118,9 +6118,6 @@
         <mxCell id="ZwUG9TpEDxOdM2GmQNs8-211" value="Ant&lt;br&gt;Virtual Kubelet" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="n-lhFYgHjm54SRcJaEUp-1" vertex="1">
           <mxGeometry x="1127" y="3259.94" width="98" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZwUG9TpEDxOdM2GmQNs8-212" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="n-lhFYgHjm54SRcJaEUp-1" vertex="1">
-          <mxGeometry x="1190" y="3134.94" width="190" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="ZwUG9TpEDxOdM2GmQNs8-213" value="ApiServer" style="rounded=1;whiteSpace=wrap;html=1;" parent="n-lhFYgHjm54SRcJaEUp-1" vertex="1">
           <mxGeometry x="1225" y="3142.44" width="120" height="60" as="geometry" />
         </mxCell>
@@ -6134,7 +6131,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZwUG9TpEDxOdM2GmQNs8-218" value="CA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="n-lhFYgHjm54SRcJaEUp-1" vertex="1">
-          <mxGeometry x="1140" y="3162.44" width="40" height="20" as="geometry" />
+          <mxGeometry x="1265" y="3118" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZwUG9TpEDxOdM2GmQNs8-219" value="Clinet-Certificate&lt;br&gt;CN=Ant&lt;br&gt;O=Alipay" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="n-lhFYgHjm54SRcJaEUp-1" vertex="1">
           <mxGeometry x="1027" y="3259.94" width="100" height="20" as="geometry" />
@@ -6143,10 +6140,10 @@
           <mxGeometry x="1027" y="3299.94" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZwUG9TpEDxOdM2GmQNs8-221" value="Server-Certificate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="n-lhFYgHjm54SRcJaEUp-1" vertex="1">
-          <mxGeometry x="1390" y="3150" width="100" height="20" as="geometry" />
+          <mxGeometry x="1350" y="3150" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZwUG9TpEDxOdM2GmQNs8-222" value="Server-Key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="n-lhFYgHjm54SRcJaEUp-1" vertex="1">
-          <mxGeometry x="1390" y="3170" width="100" height="20" as="geometry" />
+          <mxGeometry x="1350" y="3170" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZwUG9TpEDxOdM2GmQNs8-225" value="Clinet-Certificate&lt;br&gt;CN=Bank&lt;br&gt;O=Institution" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="n-lhFYgHjm54SRcJaEUp-1" vertex="1">
           <mxGeometry x="1443" y="3259.94" width="100" height="20" as="geometry" />
